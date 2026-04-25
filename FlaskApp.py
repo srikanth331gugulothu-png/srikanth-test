@@ -2,4 +2,7 @@ print("Flask is used to API")
 print("webappi-1")
 print("webappi-2")
 print("webappi-3")
+print("route1")
+print("route2")
+print("route3")
 
